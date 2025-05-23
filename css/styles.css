@@ -1,0 +1,75 @@
+body {
+    margin: 0; font-family: Arial, sans-serif; 
+    line-height: 1.6; 
+    background-image: url(../img/backgroud_sf6.webp); 
+    background-position: center center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed; 
+    text-align: center;
+}
+        
+nav {
+    background-color:darkviolet; color: white; padding: 5px; text-align: center;
+}
+
+p {
+    color: white;
+}
+        
+h1 {
+    font-family: "Oswald", sans-serif; 
+    font-size: 40px;
+    color: yellow;
+}
+
+h2.indice {
+    text-align: left;
+}
+
+li.indiceclase {
+    text-align: left;
+    color: white;
+}
+li.inicio {
+    text-align: center;
+    color: white;
+}
+p {
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+
+li {
+    color:mediumaquamarine;
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif; 
+    font-size: 30px;
+    color: yellow;
+}
+
+h3 {
+    font-family: "Oswald", sans-serif; 
+    font-size: 27px;
+    color:mediumvioletred;
+}
+
+td {
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+
+h4 {
+    font-family: "Oswald", sans-serif; 
+    font-size: 25px;
+    color: tomato;
+}
+
+footer {
+    background-color:darkviolet;
+    color: white; 
+    padding: 5px;
+}
